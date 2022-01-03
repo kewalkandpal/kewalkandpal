@@ -1,7 +1,11 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
+  
 </p>
-
+   <a href="https://www.linkedin.com/in/kewalkandpal" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  
 - 👋 Hi, I’m kewal
 - 💼 I'm a react developer
 
