@@ -18,5 +18,6 @@
   * git 
   * html 
   * css 
-  * sass 
+  * sass
+  * tailwind css
   * bootstrap 
